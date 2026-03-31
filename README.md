@@ -4,6 +4,11 @@
 
 ---
 
+The application is deployed through Vercel and Render 
+
+Link for the website: 
+https://recursive-understanding-engine-rue-seven.vercel.app/
+
 ## The Problem
 
 Every AI tutor today does the same thing:
